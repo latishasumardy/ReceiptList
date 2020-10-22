@@ -1,0 +1,2 @@
+# ReceiptList
+Liferay technical challenge
