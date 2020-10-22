@@ -8,7 +8,7 @@ import java.math.*;
  */
 public class Items
 {
-    // instance variables - replace the example below with your own
+    // instance variables
     private String item;
     private BigDecimal raw_price;
     private BigDecimal tax;
